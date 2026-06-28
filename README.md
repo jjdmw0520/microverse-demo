@@ -2,6 +2,6 @@
 
 A short demo of the MicroVerse simulation instrument.
 
-<video src="https://github.com/jjdm0520/microverse-demo/raw/main/microverse_demo.mp4" controls width="720"></video>
+**▶ [Watch the demo video](microverse_demo.mp4)** (7.2 MB, MP4)
 
-If the player does not load, [download the video directly](https://github.com/jjdmw0520/microverse-demo/raw/main/microverse_demo.mp4).
+If the video does not play in your browser, use the download button on the file page.
